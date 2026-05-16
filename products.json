@@ -1,0 +1,50 @@
+[
+    {
+       "id":1,
+       "name": "Double Beef Burger",
+       "price":"$10.99",
+       "image": "images/hambuger.jpg"
+    },
+     {
+       "id":2,
+       "name": "Veggie Pizza",
+       "price":"$9.67",
+       "image": "images/hambuger.jpg"
+    },
+     {
+       "id":3,
+       "name": "Fried Chicken",
+       "price":"$13.45",
+       "image": "images/hambuger.jpg"
+    },
+     {
+       "id":4,
+       "name": "Chicken Roll",
+       "price":"$.7.507",
+       "image": "images/hambuger.jpg"
+    },
+     {
+       "id":5,
+       "name": "Sub Sanwich",
+       "price":"$6.99",
+       "image": "images/hambuger.jpg"
+    },
+     {
+       "id":6,
+       "name": "Chicken Lasagna",
+       "price":"$16.45",
+       "image": "images/hambuger.jpg"
+    },
+     {
+       "id":7,
+       "name": "Itallian Spaghetti",
+       "price":"$7.65",
+       "image": "images/hambuger.jpg"
+    },
+     {
+       "id":8,
+       "name": "Spring Roll",
+       "price":"$9.31",
+       "image": "images/hambuger.jpg"
+    }
+]
